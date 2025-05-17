@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Ecommerce Platform",
+    "description": "A fully scalable online Store built with React for frontend and Node.js for backend utilising PostgreSQL for database features",
+    "category": "Web",
+    "image": "https://cdn.pixabay.com/photo/2021/07/10/15/45/online-shop-6401739_960_720.png"
+  },
+  {
+    "id": 2,
+    "title": "Task Manager App",
+    "description": "A mobile app for managing daily tasks",
+    "category": "Web",
+    "image": "https://cdn.pixabay.com/photo/2021/07/10/15/45/online-shop-6401739_960_720.png"
+  },
+  {
+    "id": 3,
+    "title": "Authentication System",
+    "description": "Implementing an authentication system using Python Flask, pyJWT for generating JSON Web Tokens",
+    "category": "Cybersecurity plus",
+    "image": "https://cdn.pixabay.com/photo/2018/08/02/09/57/access-3579221_1280.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dashboard Design",
+    "description": "A visual database design for frontend of a data analysis website using HTML, CSS and JavaScript",
+    "category": "Web",
+    "image": "https://cdn.pixabay.com/photo/2021/08/16/17/34/barometer-6550830_1280.jpg"
+  },
+  {
+    "id": 5,
+    "title": "An Encryption Algorithm",
+    "description": "A strong encryption algorithm using Python",
+    "category": "Cybersecurity",
+    "image": "https://cdn.pixabay.com/photo/2016/10/12/11/17/global-security-1734189_1280.jpg"
+  },
+  {
+    "id": 6,
+    "title": "TLS Implementation and Configuration",
+    "description": "Implementing TLS protocol using Python's SSL library",
+    "category": "Cybersecurity plus",
+    "image": "https://cdn.pixabay.com/photo/2016/10/12/11/17/global-security-1734189_1280.jpg"
+  }
+]
